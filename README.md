@@ -69,7 +69,7 @@ Installed path:
 ### 1. Clone and install the skill
 
 ```bash
-git clone https://github.com/<your-user>/notebook-skill.git
+git clone https://github.com/pinthoz/notebook-skill.git
 cd notebook-skill
 chmod +x install.sh && ./install.sh
 ```
