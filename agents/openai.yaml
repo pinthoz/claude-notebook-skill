@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jupyter Notebooks"
+  short_description: "Create rigorous academic notebooks for data science and ML"
+  icon_small: "./assets/jupyter-small.svg"
+  icon_large: "./assets/jupyter.png"
+  default_prompt: "Create a complete, rigorous, academic Jupyter notebook in English. Include title, introduction, EDA/EAD, robust preprocessing, diverse models, cross-validation, rich metric comparison, interpretability with feature importance, error analysis, limitations, reproducibility notes, and a final section named 'Conclusion (to be written)' with prompts only. Do not use emojis, decorative separators, or the em dash character."
