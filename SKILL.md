@@ -1,3 +1,9 @@
+---
+name: academic-notebook
+description: Creates rigorous academic-style Jupyter notebooks for data science and machine learning tasks.
+disable-model-invocation: true
+---
+
 # Academic Notebook Skill
 
 Purpose
