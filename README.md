@@ -4,7 +4,7 @@ The agent harness for rigorous academic Jupyter notebook generation. Data scienc
 
 by pinthoz
 
-License: MIT  Python 3.8+  Shell  Markdown  Claude Code Skill
+License: Apache-2.0 license  Python 3.8+  Shell  Markdown  Claude Code Skill
 
 ## What This Skill Does
 
